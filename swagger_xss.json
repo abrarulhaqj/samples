@@ -1,7 +1,7 @@
 {
   "swagger": "2.0",
   "info": {
-    "description": "<form><label for=\"xss\">XSS Injected:</label><input type=\"text\" id=\"xss\" name=\"xss\" onload=\"alert(2)\"></form>",
+    "description": "<form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id=\"</textarea><img onload=alert(3) src=1>\"></form>",
     "version": "1.0.6",
     "title": "Swagger Petstore",
     "termsOfService": "http://swagger.io/terms/",
