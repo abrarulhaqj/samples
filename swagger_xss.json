@@ -1,7 +1,7 @@
 {
   "swagger": "2.0",
   "info": {
-    "description": "<form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id=\"</textarea><img onload=\"alert(3)\" src=\"1>\"></form>",
+    "description": "<form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id=\"</textarea><img onerror=alert(WLX Test) src=1>\"></form>",
     "version": "1.0.6",
     "title": "Swagger Petstore",
     "termsOfService": "http://swagger.io/terms/",
